@@ -33,7 +33,7 @@ class ___FILEBASENAMEASIDENTIFIER___ : UIViewController {
     // MARK: - View
 
 //    override func loadView() {
-//        self.view = ___FILEBASENAMEASIDENTIFIER___View(frame: CGRectZero)
+//        self.view = ___FILEBASENAMEASIDENTIFIER___View()
 //    }
     
     override func viewDidLoad() {
