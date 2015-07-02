@@ -33,7 +33,7 @@ class ___FILEBASENAMEASIDENTIFIER___ : UITableViewCell {
     
     // MARK: - Methods
 
-    private func setupAutoLayoutContraints() {
+    private func setupAutoLayoutConstraints() {
 
     }
     
