@@ -11,5 +11,5 @@ Simply copy the whole repo into you home library directory.
 Templates are saved in the following folder (Xcode 5)
 
 ```
-~/Library/Developer/Xcode/Templates/File Templates
+~/Library/Developer/Xcode/Templates/File\ Templates/
 ```
