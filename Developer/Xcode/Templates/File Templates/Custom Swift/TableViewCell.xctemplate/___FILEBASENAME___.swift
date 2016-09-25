@@ -11,13 +11,13 @@ import UIKit
 
 let ___FILEBASENAMEASIDENTIFIER___ReuseIdentifier = "___FILEBASENAMEASIDENTIFIER___"
 
-class ___FILEBASENAMEASIDENTIFIER___ : UITableViewCell {
-    
-    // MARK: - Variables    
+class ___FILEBASENAMEASIDENTIFIER___: UITableViewCell {
 
-    
+    // MARK: - Variables
+
+
     // MARK: - Initializers
-    
+
     override init(style: UITableViewCellStyle, reuseIdentifier: String?) {
         super.init(style: style, reuseIdentifier: reuseIdentifier)
 
@@ -25,18 +25,18 @@ class ___FILEBASENAMEASIDENTIFIER___ : UITableViewCell {
 
         self.setupAutoLayoutConstraints()
     }
-    
+
     required init(coder aDecoder: NSCoder) {
         fatalError("init(coder:) has not been implemented")
     }
-    
-    
+
+
     // MARK: - Methods
 
     private func setupAutoLayoutConstraints() {
 
     }
-    
+
     func configureWith(name: String, selected: Bool) {
 
     }
@@ -48,5 +48,5 @@ class ___FILEBASENAMEASIDENTIFIER___ : UITableViewCell {
 
     }
 
-    
+
 }
